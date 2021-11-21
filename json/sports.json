@@ -1,0 +1,266 @@
+{
+	"status": "ok",
+	"totalResults": 70,
+	"articles": [
+		{
+			"source": {
+				"id": "google-news",
+				"name": "Google News"
+			},
+			"author": null,
+			"title": "إعلامي يعلن رحيل كيروش عن المنتخب - المصري اليوم",
+			"description": null,
+			"url": "https://news.google.com/__i/rss/rd/articles/CBMiMmh0dHBzOi8vd3d3LmFsbWFzcnlhbHlvdW0uY29tL25ld3MvZGV0YWlscy8yNDY2Nzk00gE1aHR0cHM6Ly93d3cuYWxtYXNyeWFseW91bS5jb20vbmV3cy9kZXRhaWxzYW1wLzI0NjY3OTQ?oc=5",
+			"urlToImage": null,
+			"publishedAt": "2021-11-20T23:28:06Z",
+			"content": null
+		},
+		{
+			"source": {
+				"id": null,
+				"name": "Filgoal.com"
+			},
+			"author": "<a href='https://www.filgoal.com/editor/details/106559'>FilGoal</a>",
+			"title": "رئيس الحكام يحسم الجدل: هدف المقاولون الملغي تسلل لهذا السبب.. وطرد حمدي فتحي مستحق - في الجول",
+			"description": "حسم عصام عبد الفتاح رئيس لجنة الحكام، الجدول حول القرارات التحكيمية لمباراة الأهلي والمقاولون العرب.",
+			"url": "https://www.filgoal.com/articles/422722",
+			"urlToImage": "https://media.filgoal.com/news/verylarge/282276_0.jpg",
+			"publishedAt": "2021-11-20T21:27:00Z",
+			"content": null
+		},
+		{
+			"source": {
+				"id": null,
+				"name": "Btolat.com"
+			},
+			"author": null,
+			"title": "مستشهدًا بأمم إفريقيا.. كلوب يثير القلق بشأن لياقة لاعبي ليفربول - بطولات",
+			"description": "أبدى يورجن كلوب مدرب فريق ليفربول قلقه بشأن اللياقة البدنية للاعبيه وذلك بعد فوز اليوم أمام آرسنال، في بطولة الدوري الإنجليزي الممتاز.\r\nوتلاقى الفريقان في إطار منافسات الجولة الثانية عشر من بطولة الدوري الإنجليزي على ملعب الأنفيلد، حيث فاز ليفربول بأربعة أهدا…",
+			"url": "https://www.btolat.com/news/262975",
+			"urlToImage": "https://img.btolat.com/news/large/262975.jpg",
+			"publishedAt": "2021-11-20T21:02:03Z",
+			"content": null
+		},
+		{
+			"source": {
+				"id": null,
+				"name": "Yallakora.com"
+			},
+			"author": "رامي بشاي",
+			"title": "أبو جبل: باق مع الزمالك.. ومتلزم بتجديد تعاقدي - يلا كورة",
+			"description": "أكد محمد أبو جبل حارس مرمى نادي الزمالك، أن ما يتردد في الساعات الماضية حول رحيله عن الفريق خلال الفترة المقبلة لا أساس له من الصحة.",
+			"url": "https://www.yallakora.com/egyptian-league/2730/news/417561/أبو-جبل-باق-مع-الزمالك-ومتلزم-بتجديد-تعاقدي-وفق-ا-لظروف-النادي",
+			"urlToImage": "https://media.gemini.media/img/yallakora/Normal/\\2021\\2\\15\\79e7925e-28e0-4652-a6e5-8e7bf70aa8232021_2_15_9_50.jpg",
+			"publishedAt": "2021-11-20T20:39:00Z",
+			"content": ":"
+		},
+		{
+			"source": {
+				"id": null,
+				"name": "Fal3arda.com"
+			},
+			"author": null,
+			"title": "\"فريق صلاح\".. عملاق أوروبا يطلب التعاقد مع نجم الأهلي مقابل 7 مليون يورو - كورة في العارضة - في العارضة",
+			"description": "قالت تقارير إعلامية خلال الساعات الأخيرة، بإن مصدر مسؤول في النادي الأهلي قد أكد بإن هناك معلومات تشير لوجود رغبة لدى نادي بازل السويسري للحصول على خدمات",
+			"url": "https://kora.fal3arda.com/817780/%d9%81%d8%b1%d9%8a%d9%82-%d8%b5%d9%84%d8%a7%d8%ad-%d8%b9%d9%85%d9%84%d8%a7%d9%82-%d8%a3%d9%88%d8%b1%d9%88%d8%a8%d8%a7-%d9%8a%d8%b7%d9%84%d8%a8-%d8%a7%d9%84%d8%aa%d8%b9%d8%a7%d9%82%d8%af-%d9%85/",
+			"urlToImage": "https://cdn.fal3arda.com/wp-content/uploads/2021/11/النادي-الأهلي-1637440646.jpg",
+			"publishedAt": "2021-11-20T20:37:39Z",
+			"content": null
+		},
+		{
+			"source": {
+				"id": "google-news",
+				"name": "Google News"
+			},
+			"author": null,
+			"title": "بعد استبعادهم من كأس العرب.. 4 وجوه تخلى عنها كيروش مع منتخب مصر - المصري اليوم",
+			"description": null,
+			"url": "https://news.google.com/__i/rss/rd/articles/CBMiMmh0dHBzOi8vd3d3LmFsbWFzcnlhbHlvdW0uY29tL25ld3MvZGV0YWlscy8yNDY2NDk20gE1aHR0cHM6Ly93d3cuYWxtYXNyeWFseW91bS5jb20vbmV3cy9kZXRhaWxzYW1wLzI0NjY0OTY?oc=5",
+			"urlToImage": null,
+			"publishedAt": "2021-11-20T20:16:00Z",
+			"content": null
+		},
+		{
+			"source": {
+				"id": null,
+				"name": "Yalla-shoot-7sry.com"
+			},
+			"author": "KhaledMontash",
+			"title": "نتيجة مباراة اتلتيكو مدريد واوساسونا اليوم 20/11/2021 الدوري الاسباني - يلا شوت حصري",
+			"description": "مباراة اتلتيكو مدريد ضد أوساسونا atletico madrid vs osasuna يستضيف فريق أتليتكو مدريد علي ملعبه استاد واندا ميتروبوليتانو في العاصمة الاسبانية مدريد …",
+			"url": "https://matches.yalla-shoot-7sry.com/2021/11/atletico-madrid-vs-osasuna.html",
+			"urlToImage": "https://blogger.googleusercontent.com/img/a/AVvXsEiCBMMo8E9RzVg5FNOQPRSzVVJWKGoQI8Mu2UEA9vWSoeqfDCzBk2QjSsm_BSOL8Zc8xapsK-NFEEaAG4PQ9yz0UgdgKO1IENGbKv0cZrOQozmpmp1hFBRLlfPywtlfpuI0G0qNR0c_0BtkMxkbO-OX2rnOyiLlhrGELQp1Lq4hNM9UV5QcXRjjv_fRPA=w1200-h630-p-k-no-nu",
+			"publishedAt": "2021-11-20T19:27:15Z",
+			"content": "atletico madrid vs osasuna .\r\n .\r\n .\r\n<ul><li> : .</li><li> : .</li><li>️ : .</li><li> : .</li><li> : 1 .</li><li>⌚ : 07:30 (GMT 2+) .</li><li>⏰ : ( 20 - 11 - 2021 ) .</li><li>⚽ : 1-0 .</li></ul>"
+		},
+		{
+			"source": {
+				"id": null,
+				"name": "Btolat.com"
+			},
+			"author": null,
+			"title": "ترتيب هدافي الدوري الإنجليزي بعد هدف محمد صلاح أمام آرسنال - بطولات",
+			"description": "أضاف النجم المصري محمد صلاح هدفًا جديدًا إلى رصيده التهديفي بعدما هز شباك فريق آرسنال في المباراة الجارية حاليًا لليفربول في الدوري الإنجليزي الممتاز.\r\nويستضيف ملعب الأنفيلد مباراة الفريقين في إطار منافسات الجولة الثانية عشر من الدوري الإنجليزي، موسم 2021/22.…",
+			"url": "https://www.btolat.com/news/262958",
+			"urlToImage": "https://img.btolat.com/news/large/262958.jpg?v=9",
+			"publishedAt": "2021-11-20T19:09:34Z",
+			"content": null
+		},
+		{
+			"source": {
+				"id": "rt",
+				"name": "RT"
+			},
+			"author": "RT Arabic",
+			"title": "بالفيديو.. ميسي يسجل هدفه الأول في الدوري الفرنسي ويقود سان جيرمان بعشرة لاعبين لتعزيز صدارته - روسيا اليوم",
+			"description": "أحرز الأرجنتيني ليونيل ميسي هدفه الأول في الدوري الفرنسي لكرة القدم وساهم في فوز فريقه باريس سان جيرمان على ضيفه نانت، بنتيجة 3-1 ضمن الجولة الـ14 من المسابقة اليوم السبت.",
+			"url": "https://arabic.rt.com/sport/1296189-%D8%A8%D8%A7%D9%84%D9%81%D9%8A%D8%AF%D9%8A%D9%88-%D9%85%D9%8A%D8%B3%D9%8A-%D9%8A%D8%B3%D8%AC%D9%84-%D9%87%D8%AF%D9%81%D9%87-%D8%A7%D9%84%D8%A3%D9%88%D9%84-%D9%81%D9%8A-%D8%A7%D9%84%D8%AF%D9%88%D8%B1%D9%8A-%D8%A7%D9%84%D9%81%D8%B1%D9%86%D8%B3%D9%8A-%D9%88%D9%8A%D9%82%D9%88%D8%AF-%D8%B3%D8%A7%D9%86-%D8%AC%D9%8A%D8%B1%D9%85%D8%A7%D9%86-%D8%A8%D8%B9%D8%B4%D8%B1%D8%A9-%D9%84%D8%A7%D8%B9%D8%A8%D9%8A%D9%86-%D9%84%D8%AA%D8%B9%D8%B2%D9%8A%D8%B2-%D8%B5%D8%AF%D8%A7%D8%B1%D8%AA%D9%87/",
+			"urlToImage": "https://cdni.rt.com/media/pics/2021.11/original/619943bf42360412ba431fbb.jpg",
+			"publishedAt": "2021-11-20T19:06:00Z",
+			"content": ":20.11.2021 | 19:06 GMT | \r\n :20.11.2021 | 21:09 GMT |"
+		},
+		{
+			"source": {
+				"id": null,
+				"name": "Yallakora.com"
+			},
+			"author": "عمر قورة",
+			"title": "الديربي.. برشلونة وإسبانيول.. أول مباراة لتشافي | يلاكورة - يلا كورة",
+			"description": "منح برشلونة بداية جيدة ومثالية لمديره الفني الجديد تشافي هيرنانديز بالفوز الثمين 1-0 على جاره وضيفه إسبانيول اليوم السبت في ديربي مثير بالمرحلة الـ14 من الدوري الإسباني.",
+			"url": "https://www.yallakora.com/la-liga/2698/News/417555/بعد-دقائق-أخيرة-صعبة-برشلونة-يبدأ-عهد-تشافي-بانتصار-في-الديربي-فيديو-",
+			"urlToImage": "https://media.gemini.media/img/yallakora/Normal/\\2021\\11\\21\\feq2cotwyaya7x-2021_11_21_0_9.jpg",
+			"publishedAt": "2021-11-20T18:58:00Z",
+			"content": ":\r\n1-0 14 .\r\n .\r\n 48 .\r\n .. \r\n .\r\n 20 17 .\r\n : ."
+		},
+		{
+			"source": {
+				"id": null,
+				"name": "Filgoal.com"
+			},
+			"author": "<a href='https://www.filgoal.com/editor/details/106559'>FilGoal</a>",
+			"title": "أول تعليق من جيرارد عقب الفوز في أولى مبارياته مع أستون فيلا - في الجول",
+			"description": "أبدى ستيفن جيرارد مدرب أستون فيلا سعادته بتحقيق أول الانتصارات في مباراته الأولى كمدرب للفريق، وذلك على حساب برايتون بهدفين دون رد ضمن منافسات الأسبوع الثاني عشر للدوري الإنجليزي الممتاز. وقال جيرارد في تصريحاته لـ \"بي بي سي سبورت\" عقب...",
+			"url": "https://www.filgoal.com/articles/422702",
+			"urlToImage": "https://media.filgoal.com/news/verylarge/282311_0.jpg",
+			"publishedAt": "2021-11-20T18:53:00Z",
+			"content": null
+		},
+		{
+			"source": {
+				"id": null,
+				"name": "Kooora365.com"
+			},
+			"author": "محمد العقاد",
+			"title": "نتيجة مباراة يوفنتوس ولاتسيو اليوم في الدوري الإيطالي - كووورة 365",
+			"description": "تتجه أنظار عشاق كرة القدم الإيطالية مباراة قوية تجمع بين يوفنتوس ولاتسيو مساء اليوم السبت 20 نوفمبر، على أرضية ملعب الأوليمبيكو، في إطار فعاليات المرحلة الثالثة عشر من بطولة الدوري الإيطالي \"الكالتشيو",
+			"url": "https://kooora365.com/europa-kooora/italian-league/165272/lazio-vs-juventus-2/",
+			"urlToImage": "https://kooora365.com/wp-content/uploads/2020/11/يوفنتوس-ضد-لاتسيو.jpg",
+			"publishedAt": "2021-11-20T18:46:26Z",
+			"content": "20 “” 2021/2022.\r\n .\r\n 18 .\r\n .\r\n 21 .\r\n ."
+		},
+		{
+			"source": {
+				"id": null,
+				"name": "Goalarab.com"
+			},
+			"author": null,
+			"title": "تعادل إيجابي.. نتيجة مباراة النصر والرائد اليوم في الدوري السعودي للمحترفين - جول العرب",
+			"description": "يلتقي فريقي النصر والرائد ضمن الجولة الحادية عشر من بطولة دوري كأس الأمير محمد بن سلمان 2021، علي ملعب مرسول بارك، وذلك في مواجهة كبيرة، لأن الفريق النصراوي يحاول السيطرة... اقرأ المزيد ←",
+			"url": "https://video.goalarab.com/5356/al-nasr-vs-al-raed/",
+			"urlToImage": "https://video.goalarab.com/wp-content/uploads/sites/3/2021/11/مباراة-النصر-والرائد.jpg",
+			"publishedAt": "2021-11-20T18:41:09Z",
+			"content": null
+		},
+		{
+			"source": {
+				"id": null,
+				"name": "beIN SPORTS"
+			},
+			"author": null,
+			"title": "تقارير عن اجتماع طارئ لإدارة مانشستر يونايتد لمناقشة مستقبل سولشاير - beIN SPORTS MENA Arabic",
+			"description": "أفادت العديد من التقارير الصحفية أنّ إدارة مانشستر يونايتد تعقد اجتماعاً طارئاً لمناقشة مستقبل النرويجي سولشاير بعد الخسارة 4-1 أمام واتفورد.",
+			"url": "https://www.beinsports.com/ar/%D8%A7%D9%84%D8%AF%D9%88%D8%B1%D9%8A-%D8%A7%D9%84%D8%A5%D9%86%D9%83%D9%84%D9%8A%D8%B2%D9%8A-%D8%A7%D9%84%D9%85%D9%85%D8%AA%D8%A7%D8%B2/%D8%A7%D9%84%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1/%D8%AA%D9%82%D8%A7%D8%B1%D9%8A%D8%B1-%D8%B9%D9%86-%D8%A7%D8%AC%D8%AA%D9%85%D8%A7%D8%B9-%D8%B7%D8%A7%D8%B1%D8%A6-%D9%84%D8%A5/1786779",
+			"urlToImage": "https://images.beinsports.com/gBpwdv18PW5msBuNsyKp9SylLFE=/670x424/smart/4040003-2021-11-20T174122Z_1125164636_UP1EHBK1D4W9D_RTRMADP_3_SOCCER-ENGLAND-WAT-MUN-REPORT.JPG",
+			"publishedAt": "2021-11-20T18:37:19Z",
+			"content": "beIN SPORTS\r\n November 20, 2021 19:37\r\n4-1 .\r\n&gt;"
+		},
+		{
+			"source": {
+				"id": null,
+				"name": "Kooora365.com"
+			},
+			"author": "محمد العقاد",
+			"title": "مشاهدة مباراة ميلان وفيورنتينا بث مباشر اليوم في الدوري ال... - كووورة 365",
+			"description": "يصطدم فريق ميلان بنظيره فيورنتينا مساء اليوم السبت 20 نوفمبر، على ملعب أرتيميو فرانكي (فلورنسا)، ضمن فعاليات الجولة الثالثة عشر من مسابقة الدوري الإيطالي \"الكالتشيو\" لكرة القدم 2021/2022م. ويقدم كورة",
+			"url": "https://kooora365.com/europa-kooora/italian-league/165357/fiorentina-vs-ac-milan-2/",
+			"urlToImage": "https://kooora365.com/wp-content/uploads/2020/11/ميلان-x-فيورنتينا.jpg",
+			"publishedAt": "2021-11-20T17:36:50Z",
+			"content": "20 () “” 2021/2022.\r\n 365 10:45 .\r\n 32 .\r\n .\r\n .\r\n 18 ."
+		},
+		{
+			"source": {
+				"id": null,
+				"name": "Yallakora.com"
+			},
+			"author": "يلاكورة",
+			"title": "رئيس البنك الأهلي ليلا كورة: استعدادنا للزمالك لن يتغير - يلا كورة",
+			"description": "تحدث أشرف نصار، رئيس نادي البنك الأهلي، عن مباراة الفريق المقبلة أمام الزمالك، مشيرا إلى أن عدد لاعبي الفريق في قائمة منتخب مصر سيرتفع في كأس الأمم الإفريقية.",
+			"url": "https://www.yallakora.com/egyptian-league/2730/news/417547/رئيس-البنك-الأهلي-ليلا-كورة-استعدادنا-للزمالك-لن-يتغير-ولا-مكافآت-إضافية",
+			"urlToImage": "https://media.gemini.media/img/yallakora/Normal/\\2021\\11\\20\\sport-20210726-220150-3162552021_11_20_19_12.jpg",
+			"publishedAt": "2021-11-20T17:14:00Z",
+			"content": ":\r\n- :\r\n .\r\n .\r\n : \" \".\r\n: \" \".\r\n : \" \".\r\n : \" \".\r\n : \" \".\r\n: \" \".\r\n : \" \"."
+		},
+		{
+			"source": {
+				"id": null,
+				"name": "Skynewsarabia.com"
+			},
+			"author": "سكاي نيوز عربية",
+			"title": "واتفورد \"يهين\" مانشستر يونايتد.. ومصير سولشاير على المحك - سكاي نيوز عربية",
+			"description": "مُني مانشستر يونايتد بخسارته الرابعة في 5 مباريات بالدوري الإنجليزي الممتاز، حيث هزم 1-4 أمام واتفورد، السبت، ليزداد الضغط على المدرب أولي غونار سولشاير.",
+			"url": "https://www.skynewsarabia.com/sport/1480627-%D9%88%D8%A7%D8%AA%D9%81%D9%88%D8%B1%D8%AF-%D9%8A%D9%87%D9%8A%D9%86-%D9%85%D8%A7%D9%86%D8%B4%D8%B3%D8%AA%D8%B1-%D9%8A%D9%88%D9%86%D8%A7%D9%8A%D8%AA%D8%AF-%D9%88%D9%85%D8%B5%D9%8A%D8%B1-%D8%B3%D9%88%D9%84%D8%B4%D8%A7%D9%8A%D8%B1-%D8%A7%D9%84%D9%85%D8%AD%D9%83",
+			"urlToImage": "https://www.skynewsarabia.com/images/v1/2021/11/20/1480625/1200/630/1-1480625.JPG",
+			"publishedAt": "2021-11-20T17:07:01Z",
+			"content": null
+		},
+		{
+			"source": {
+				"id": null,
+				"name": "Kooora365.com"
+			},
+			"author": "علاء كمال",
+			"title": "نجم بيراميدز يُعلن التمرد بسبب الأهلي - كووورة 365",
+			"description": "أعلن نجم فريق بيراميدز رفض تمديد عقده مع النادي السماوي في الفترة المقبلة، وذلك بعد تلقيه عرضًا للانتقال إلى النادي الأهلي خلال فترة الانتقالات المقبلة. وأكدت تقارير صحفية أن نادي بيراميدز يواصل مفاوض",
+			"url": "https://kooora365.com/kooora-news/arab-football/165333/%d9%86%d8%ac%d9%85-%d8%a8%d9%8a%d8%b1%d8%a7%d9%85%d9%8a%d8%af%d8%b2-%d9%8a%d9%8f%d8%b9%d9%84%d9%86-%d8%a7%d9%84%d8%aa%d9%85%d8%b1%d8%af-%d8%a8%d8%b3%d8%a8%d8%a8-%d8%a7%d9%84%d8%a3%d9%87%d9%84%d9%8a/",
+			"urlToImage": "https://kooora365.com/wp-content/uploads/2021/06/الأهلي-و-بيراميدز-2-scaled-1.jpg",
+			"publishedAt": "2021-11-20T16:46:31Z",
+			"content": ""
+		},
+		{
+			"source": {
+				"id": null,
+				"name": "Kooora365.com"
+			},
+			"author": "محمد العقاد",
+			"title": "نتيجة مباراة بوروسيا دورتموند وشتوتجارت اليوم في الدوري ا?... - كووورة 365",
+			"description": "يستضيف ملعب سيغنال ايدونا بارك مباراة هامه تجمع بين بوروسيا دورتموند وشتوتجارت، مساء اليوم الت 20 نوفمبر، في إطار فعاليات المرحلة الثانية عشر من مسابقة الدوري الألماني \"البوندسليجا\" لكرة القدم. انتهى",
+			"url": "https://kooora365.com/europa-kooora/bundesliga/165186/dortmund-vs-stuttgart-2/",
+			"urlToImage": "https://kooora365.com/wp-content/uploads/2020/12/بوروسيا-دورتموند-x-شتوتجارت.jpg",
+			"publishedAt": "2021-11-20T16:40:57Z",
+			"content": "20 “” .\r\n .\r\n 24 .\r\n 28 .\r\n 10 ."
+		},
+		{
+			"source": {
+				"id": null,
+				"name": "Youm7.com"
+			},
+			"author": null,
+			"title": "شباب الأهلي يهزم الاتحاد السكندرى بثنائية فى دوري الجمهورية - اليوم السابع",
+			"description": "فاز فريق الشباب لكرة القدم بالنادي الأهلي مواليد 2001 على ضيفه الاتحاد السكندري، بهدفين مقابل هدف، فى المباراة التي جمعت الفريقين اليوم.",
+			"url": "https://www.youm7.com/story/2021/11/20/شباب-الأهلي-يهزم-الاتحاد-السكندرى-بثنائية-فى-دوري-الجمهورية/5545745",
+			"urlToImage": "https://img.youm7.com/large/20211120062404244.jpg",
+			"publishedAt": "2021-11-20T16:40:00Z",
+			"content": null
+		}
+	]
+}
