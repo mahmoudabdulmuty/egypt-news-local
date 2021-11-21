@@ -62,5 +62,3 @@ document.querySelector('.sports').addEventListener('click', function () {
 document.querySelector('.technology').addEventListener('click', function () {
 	createArticle('./json/technology.json');
 });
-
-document.querySelector('.year').textContent = new Date().getFullYear();
