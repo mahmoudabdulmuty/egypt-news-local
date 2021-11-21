@@ -64,7 +64,7 @@ a {
 @media (max-width: 600px) {
 	.menu-items {
 		display: block;
-    text-align: center;
+		text-align: center;
 	}
 }
 @media (max-width: 400px) {
@@ -179,4 +179,13 @@ a {
 	.article {
 		margin-bottom: 4rem;
 	}
+}
+
+.footer {
+	margin: 20px 0 10px;
+}
+.footer-paragraph {
+	text-align: center;
+	font-size: 2.8rem;
+	color: #fff;
 }
