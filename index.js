@@ -9,7 +9,7 @@ async function createArticle(apiLink) {
 		articles.forEach((article) => {
 			const { title, description, url, urlToImage } = article;
 			document.querySelector('.main').innerHTML += `
-        <article class="article">
+			<article class="article">
         <div class="article-img">
           <img src="${
 						!urlToImage ||
